@@ -1,0 +1,15 @@
+{
+  "C_Cpp.autocomplete": "Default",
+  "C_Cpp.intelliSenseEngine": "Default",
+  "C_Cpp.dimInactiveRegions": false,
+  "C_Cpp.preferredPathSeparator": "Forward Slash",
+  "C_Cpp.loggingLevel": "Warning",
+  "C_Cpp.workspaceParsingPriority": "highest",
+  "C_Cpp.enhancedColorization": "Disabled",
+  "terminal.integrated.env.osx": {
+    "PATH": "/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+  },
+  "[applescript]": {
+    "files.encoding": "utf8"
+  }
+}
